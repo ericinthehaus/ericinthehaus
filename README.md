@@ -5,7 +5,7 @@ I'm currently studying [Computational Social Science](https://www.uc3m.es/master
 ### Programming tools
 
 ![Static Badge](https://img.shields.io/badge/Code-SQL-skyblue?style=flat)
-![Static Badge](https://img.shields.io/badge/Code-Excel-217346?style=flat&logo=microsoftexcel&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=276DC3)
 ![Static Badge](https://img.shields.io/badge/Power_Automate-%230066FF?style=flat&logo=powerautomate&labelColor=gray)
 
