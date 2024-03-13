@@ -2,6 +2,10 @@
 
 I'm currently studying [Computational Social Science](https://www.uc3m.es/master/computational-social-science#home) at Universidad Carlos III de Madrid (UC3M). This program focuses on data science tools needed to collect, analyze, and visualize data. 
 
+## Recent projects
+
+[Data Harvesting class project](https://github.com/frederickps/data-harvesting-project-eventbrite)
+
 ### Programming tools
 
 ![Static Badge](https://img.shields.io/badge/Code-SQL-skyblue?style=flat)
