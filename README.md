@@ -5,6 +5,7 @@ I'm currently studying [Computational Social Science](https://www.uc3m.es/master
 ### Recent projects
 
 * [Data Harvesting class project](https://github.com/frederickps/data-harvesting-project-eventbrite)
+* [Survey Research class project] (https://github.com/ericinthehaus/Opinions-on-transgender-rights-in-Europe_-An-analysis-from-the-European-social-service) 
 
 ### Programming tools
 
