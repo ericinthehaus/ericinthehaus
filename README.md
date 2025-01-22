@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently studying [Computational Social Science](https://www.uc3m.es/master/computational-social-science#home) at Universidad Carlos III de Madrid (UC3M). This program focuses on data science tools needed to collect, analyze, and visualize data. 
+I'm currently working as a an HR Data Analyst Trainee for the European Central Bank in Frankfurt, Germany.
 
 ### Recent projects
 
