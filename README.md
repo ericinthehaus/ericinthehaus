@@ -12,6 +12,7 @@ I'm currently working as a an HR Data Analyst Trainee for the European Central B
 ![Static Badge](https://img.shields.io/badge/Code-SQL-skyblue?style=flat)
 ![Static Badge](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=276DC3)
+![Static Badge](https://img.shields.io/badge/python-white?logo=python)
 ![Static Badge](https://img.shields.io/badge/Power_Automate-%230066FF?style=flat&logo=powerautomate&labelColor=gray)
 
 ![Static Badge](https://img.shields.io/badge/Advanced_Modelling-grey?style=for-the-badge&color=orange)
