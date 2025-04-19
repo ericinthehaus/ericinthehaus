@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working as a an HR Data Analyst Trainee for the European Central Bank in Frankfurt, Germany.
+I'm currently working as a Trainee in Data Science and Analytics for the HR department of the European Central Bank in Frankfurt, Germany.
 
 ### Recent projects
 
@@ -22,9 +22,13 @@ I'm currently working as a an HR Data Analyst Trainee for the European Central B
 ## Background
 
 ### Professional 
-I have experience working in supply chain planning, data journalism, and soccer/football refereeing ⚽.
+I have experience working in supply chain planning for semiconductor products, freelance data journalism, and business analysis. 
+
+I am also a professinal soccer/football referee ⚽.
 
 ### Academic
+In 2024, I complted a master's degree in Computational Social Science from the Universidad de Carlos III de Madrid. 
+
 I graduated from New York University's Stern School of Business with a Bachelor's degree in Business. 
 My concentration was in [Computing and Data Science](https://www.stern.nyu.edu/portal-partners/current-students/undergraduate/academics/degree-programs/bs-business/computing-and-data-science) and I minored in Math. 
 
