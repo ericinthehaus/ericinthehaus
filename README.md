@@ -2,10 +2,11 @@
 
 I'm currently working as a Trainee in Data Science and Analytics for the HR department of the European Central Bank in Frankfurt, Germany.
 
-### Recent projects
+### Projects from university courses:
 
 * [Data Harvesting class project](https://github.com/frederickps/data-harvesting-project-eventbrite)
-* [Survey Research class project](https://github.com/ericinthehaus/Opinions-on-transgender-rights-in-Europe_-An-analysis-from-the-European-social-service) 
+* [Survey Research class project](https://github.com/ericinthehaus/Opinions-on-transgender-rights-in-Europe_-An-analysis-from-the-European-social-service)
+* [Text Mining course project](https://github.com/ericinthehaus/text-mining-harry-potter-class-project)
 
 ### Programming tools
 
@@ -22,15 +23,15 @@ I'm currently working as a Trainee in Data Science and Analytics for the HR depa
 ## Background
 
 ### Professional 
-I have experience working in supply chain planning for semiconductor products, freelance data journalism, and business analysis. 
+I am an experienced data analyst, with experience in supply chain operations for semiconductor products, freelance data journalism, and human resources. 
 
 I am also a professinal soccer/football referee ⚽.
 
 ### Academic
-In 2024, I complted a master's degree in Computational Social Science from the Universidad de Carlos III de Madrid. 
+In July 2024, I complted a master's degree in Computational Social Science from the Universidad de Carlos III de Madrid. 
 
-I graduated from New York University's Stern School of Business with a Bachelor's degree in Business. 
-My concentration was in [Computing and Data Science](https://www.stern.nyu.edu/portal-partners/current-students/undergraduate/academics/degree-programs/bs-business/computing-and-data-science) and I minored in Math. 
+In 2019, I graduated from New York University's Stern School of Business with a Bachelor's degree in Business. 
+My concentration was in [Computing and Data Science](https://www.stern.nyu.edu/portal-partners/current-students/undergraduate/academics/degree-programs/bs-business/computing-and-data-science). 
 
 ## Likes
 
